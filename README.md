@@ -1,4 +1,4 @@
-# Biochemical_Coordinate_layout
+# Biochemical coordinate layout
 Norwegian University of Science and Technology, 
 Trondheim 2022\
 Department of Biotechnology and Food Science\
