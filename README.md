@@ -1,5 +1,6 @@
 # Biochemical coordinate layout
-## Visualisation of genome-scale metabolic models and metabolic pathways using molecular descriptors of metabolites
+### Visualisation of genome-scale metabolic models and metabolic pathways using molecular descriptors of metabolites
+
 Norwegian University of Science and Technology, 
 Trondheim 2022\
 Department of Biotechnology and Food Science\
