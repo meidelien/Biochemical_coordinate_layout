@@ -8,6 +8,16 @@ Department of Biotechnology and Food Science\
 Thesis supervisor: [Daniel Machado](https://github.com/cdanielmachado/)\
 Co-Supervisor: [Elisa Marquez](https://github.com/emarquezz/)
 
+|Supplementary #|Name/Description|
+|:-:|:-:|
+|1|[Data collection](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Data%20collection)|
+|2|[Molecular descriptor calculation](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Molecular%20descriptor%20calculation)|
+|3|[Case study datasets](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Case%20study%20datasets)|
+|4|[Layout visualization](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Case%20study%20datasets)|
+
+
+
+
 ## Dependencies
 [![Powered by RDKit](https://img.shields.io/badge/Powered%20by-RDKit-3838ff.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAFVBMVEXc3NwUFP8UPP9kZP+MjP+0tP////9ZXZotAAAAAXRSTlMAQObYZgAAAAFiS0dEBmFmuH0AAAAHdElNRQfmAwsPGi+MyC9RAAAAQElEQVQI12NgQABGQUEBMENISUkRLKBsbGwEEhIyBgJFsICLC0iIUdnExcUZwnANQWfApKCK4doRBsKtQFgKAQC5Ww1JEHSEkAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wMy0xMVQxNToyNjo0NyswMDowMDzr2J4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDMtMTFUMTU6MjY6NDcrMDA6MDBNtmAiAAAAAElFTkSuQmCC)](https://www.rdkit.org/)
 
@@ -36,34 +46,6 @@ Co-Supervisor: [Elisa Marquez](https://github.com/emarquezz/)
 
 
 
-#### References
-
-
-- King ZA, Lu JS, Dräger A, Miller PC, Federowicz S, Lerman JA, Ebrahim A, Palsson BO, and Lewis NE. BiGG Models: A platform for integrating, standardizing, and sharing genome-scale models (2016) Nucleic Acids Research 44(D1):D515-D522. doi:10.1093/nar/gkv1049
-- MetaNetX/MNXref: unified namespace for metabolites and biochemical reactions in the context of metabolic models
-Sébastien Moretti, Van Du T Tran, Florence Mehl, Mark Ibberson, Marco Pagni
-
-
-
-#### Repository for thesis supplementary information.
-An overview of its contents is given below.
-|Suppl. no.|Description|Path|
-|:---:|---:|:---|
-|1|[Case study datasets](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Case%20study%20datasets)|
-|2|Scripts for preparing datasets|database/scripts|
-|3|Prepared trait datasets from various sources|database/preprared_data|
-|4|Output of the dataset assembly and analysis|database/output_files|
-|5|NCBI overview of prokaryotes|sequences/ncbi_prokaryotes.txt|
-|6|Protein sequence acquisition and verification|sequences/protein_checks|
-|7|Trait sub-dataset used for association study|sequences/subTraitDataset.csv|
-|8|Protein sequence data comparison|sequences/protein_data|
-|9|Functional annotation data and analysis|sequences/annotation|
-|10|Fisher’s tests for annotations and gram stain|analysis/fisher|
-|11|Genotype—phenotype association|analysis/association|
-|12|COG term generalisation and analysis|analysis/association/cog_terms|
-|13|GO term generalisation and analysis|analysis/association/go_terms|
-|14|KO term generalisation and analysis|analysis/association/ko_terms|
-|15|Sequences and annotations for test species|analysis/suggest_gram_test|
 
 
 
