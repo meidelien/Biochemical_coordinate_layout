@@ -1,0 +1,149 @@
+MNXM	Name
+MNXM1091615	1,4-Dihydroxy-2-naphthoyl-CoA
+MNXM1091694	2-dehydro-3-deoxy-D-arabinonate
+MNXM1091705	2-hydroxycyclohepta-1,4,6-triene-1-carboxylate
+MNXM1091706	2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA
+MNXM1091743	3,4-dihydroxyphenylacetyl-CoA
+MNXM1091763	3-Hydroxybenzoate
+MNXM1091764	3-hydroxybenzoyl-CoA
+MNXM1091950	4-aminobenzoyl-glutamate
+MNXM1091991	Phenylhydantoin
+MNXM1091992	Phenylureidoacetic acid
+MNXM1092502	2-N-acetamidomethylphosphonate
+MNXM1092515	N-Acetylmethionine
+MNXM1092564	Aminomethylphosphonate
+MNXM1092736	Cesium ion
+MNXM1092741	Carboxy-S-adenosyl-L-methionine
+MNXM1092869	Dihydrocurcumin
+MNXM1092877	2,3-Dihydroxypropane-1-sulfonate
+MNXM1092878	3-hydroxy-5-phosphonooxypentane-2,4-dione
+MNXM1092879	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione
+MNXM1092892	2,5-Diketo-3-deoxy-D-gluconate
+MNXM1092923	4-Deoxy-L-threo-5-hexosulose uronate
+MNXM1092934	2-hydroxyethyldisulfide
+MNXM1092958	D-erythrose
+MNXM1093073	GMP-N-?-(N-?-acetyl lysine methyl ester) 5'-phosphoramidate
+MNXM1093235	Isoprimeverose
+MNXM1093300	2-dehydro-3-deoxy-L-rhamnonate
+MNXM1093344	Maltohexaose
+MNXM1093350	N-monoacetylchitobiose 6'-phosphate
+MNXM1093355	Methylphosphonic acid
+MNXM1093357	1-O-methyl-Beta-D-glucuronate
+MNXM1093395	Methanetelluronate
+MNXM1093417	(R)-NADHX
+MNXM1093418	Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl} dihydrogen diphosphate)
+MNXM1093419	(R)-NADPHX
+MNXM1093420	(S)-NADPHX
+MNXM1093425	N-?-acetyl lysine methyl ester
+MNXM1094019	Phosphonate
+MNXM1094034	5-phospho-?-D-ribose 1,2-cyclic phosphate
+MNXM1094051	?-D-ribose-1-methylphosphonate 5-phosphate
+MNXM1094052	Propanoate
+MNXM1094062	O-Phospho-L-serine
+MNXM1094063	Pseudouridine
+MNXM1094075	Poly-?-1,6-N-acetyl-D-glucosamine
+MNXM1094088	(R)-2-Hydroxyglutarate
+MNXM1094097	L-rhamnonate
+MNXM1094102	?-D-ribose-1-methylphosphonate-5-triphosphate
+MNXM1094118	6-deoxy-6-sulphofructose
+MNXM1094119	6-deoxy-6-sulphofructose 1-phosphate
+MNXM1094124	Sulpholactaldehyde
+MNXM1094133	Sulphoquinovose
+MNXM1094141	1-(?-D-sulfoquinovosyl)glycerol
+MNXM1094284	Tetrahydrocurcumin
+MNXM1094288	Thiocyanate
+MNXM1094289	Thiosulfate
+MNXM1094400	Undecaprenol-diphosphate-glucose
+MNXM1094428	S-ureidoglycine
+MNXM1101270	Bis-molybdenum cofactor
+MNXM1102194	Tetrahydromonapterin
+MNXM1102523	D-Carnitine
+MNXM1106690	Fusidic acid
+MNXM1106762	L-Leucine
+MNXM1107429	Ferrichrome minus Fe(III)
+MNXM114283	2-Dehydro-L-gulonate
+MNXM145809	Flavodoxin semi oxidized
+MNXM145882	2-3-dihydroxybenzoylserine trimer
+MNXM146250	2-3-dihydroxybenzoylserine trimer-Fe-III
+MNXM146401	IscS sulfur acceptor protein
+MNXM146402	IscS with bound sulfur
+MNXM147054	Bis-molybdopterin guanine dinucleotide
+MNXM147128	IscU scaffold protein
+MNXM147129	IscU with bound [2Fe-2S] cluster
+MNXM147307	SufBCD scaffold complex
+MNXM147308	SufBCD with bound [2Fe-2S] cluster
+MNXM147309	SufSE sulfur acceptor complex
+MNXM147310	SufSE with bound sulfur
+MNXM147395	[2Fe-1S] desulfurated iron-sulfur cluster
+MNXM147396	[3Fe-4S] damaged iron-sulfur cluster
+MNXM147454	Core oligosaccharide lipid A diphosphate
+MNXM147470	Dodecanoly-phosphate (n-C12:0)
+MNXM147481	Hexadecanoyl-phosphate (n-C16:0)
+MNXM147482	Hexadecanoyl-phosphate (n-C16:1)
+MNXM147499	Lipoate (protein bound)
+MNXM147528	Octadecanoyl-phosphate (n-C18:0)
+MNXM147529	Octadecanoyl-phosphate (n-C18:1)
+MNXM147531	Octanoate (protein bound)
+MNXM147613	Tetradecanoyl-phosphate (n-C14:0)
+MNXM147614	Tetradecanoyl-phosphate (n-C14:1)
+MNXM147799	3-Oxo-glutaryl-[acyl-carrier protein] methyl ester
+MNXM147801	3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester
+MNXM148110	Bis-molybdopterin mono-guanine dinucleotide
+MNXM148172	Cyclic diguanosine monophosphate
+MNXM148224	Dihydromonapterin
+MNXM148268	Glutathiolselenolate
+MNXM148286	IscU with bound [4Fe-4S] cluster
+MNXM148287	IscU with two bound [2Fe-2S] clusters
+MNXM148352	MoaD Protein with bound AMP
+MNXM148353	MoaD Protein with carboxylate
+MNXM148354	MoaD Protein with thiocarboxylate
+MNXM148511	SufBCD with bound [4Fe-4S] cluster
+MNXM148512	SufBCD with two bound [2Fe-2S] clusters
+MNXM148528	Tungsten binding cofactor
+MNXM148529	Tungsten bispterin cofactor
+MNXM148530	Tungsten bispterin cofactor mono-guanine dinucleotide
+MNXM149209	Tungsten bispterin cofactor guanine dinucleotide
+MNXM169454	(+)-Xylose
+MNXM3448	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)
+MNXM3450	2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)
+MNXM3453	2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)
+MNXM5390	(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]
+MNXM5461	2-dodecanoyl-sn-glycerol 3-phosphate
+MNXM5464	2-hexadec-9-enoyl-sn-glycerol 3-phosphate
+MNXM5480	2-octadec-11-enoyl-sn-glycerol 3-phosphate
+MNXM5490	2-tetradec-7-enoyl-sn-glycerol 3-phosphate
+MNXM5491	2-tetradecanoyl-sn-glycerol 3-phosphate
+MNXM5958	Trans-3-cis-11-vacceoyl-[acyl-carrier protein]
+MNXM5961	Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]
+MNXM6271	Flavodoxin reduced
+MNXM6840	3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]
+MNXM722863	N,N'-diacetylchitobiose
+MNXM725917	3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester
+MNXM727020	Enoylglutaryl-[acyl-carrier protein] methyl ester
+MNXM727025	Enoylpimeloyl-[acyl-carrier protein] methyl ester
+MNXM727160	Glutaryl-[acyl-carrier protein] methyl ester
+MNXM727683	Pimeloyl-[acyl-carrier protein] methyl ester
+MNXM728594	3-Oxodecanoyl-[acyl-carrier protein]
+MNXM728614	3-Oxotetradecanoyl-[acyl-carrier protein]
+MNXM728730	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+MNXM729358	2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)
+MNXM730037	Crotonobetaine
+MNXM731019	KDO(2)-lipid IV(A) with laurate
+MNXM732890	Lipoyl-AMP
+MNXM733232	(S)-2-Hydroxyglutarate
+MNXM733250	Arbutin
+MNXM733467	2-oxepin-2(3H)-ylideneacetyl-CoA
+MNXM733587	6,7-Dihydropteridine
+MNXM733957	5,6,7,8-tetrahydropteridine
+MNXM735198	3-oxo-5,6-dehydrosuberyl-CoA
+MNXM735691	L-Ribulose
+MNXM737219	Adenosine thiamine triphosphate
+MNXM738913	Molybdopterin guanine dinucleotide
+MNXM738926	Gamma-butyrobetaine
+MNXM739590	Methane
+MNXM739676	2,3-dehydroadipyl-CoA
+MNXM740174	Selenodiglutathione
+MNXM741743	3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester
+MNXM90236	Decanoyl-ACP (n-C10:0ACP)
+MNXM90827	Ferroxamine minus Fe(3)
+MNXM91047	1-hexadec-9-enoyl-sn-glycerol 3-phosphate
