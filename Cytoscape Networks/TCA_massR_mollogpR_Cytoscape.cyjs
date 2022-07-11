@@ -1,0 +1,391 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "TCA_massR_mollogpR.json_1",
+    "name" : "TCA_massR_mollogpR.json_1",
+    "SUID" : 326,
+    "shared_name" : "TCA_massR_mollogpR.json",
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "403",
+        "id_original" : "M_pyr_c",
+        "shared_name" : "M_pyr_c",
+        "x" : 70.5,
+        "name" : "M_pyr_c",
+        "y" : 484.0,
+        "SUID" : 403,
+        "shared_name" : "M_pyr_c",
+        "id_original" : "152",
+        "value" : "M_pyr_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 10.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "400",
+        "id_original" : "M_accoa_c",
+        "shared_name" : "M_accoa_c",
+        "x" : 800.0,
+        "name" : "M_accoa_c",
+        "y" : 264.0,
+        "SUID" : 400,
+        "shared_name" : "M_accoa_c",
+        "id_original" : "171",
+        "value" : "M_accoa_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 1930.244708994709,
+        "y" : 1091.8114143920595
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "397",
+        "id_original" : "M_cit_c",
+        "shared_name" : "M_cit_c",
+        "x" : 310.5,
+        "name" : "M_cit_c",
+        "y" : 87.0,
+        "SUID" : 397,
+        "shared_name" : "M_cit_c",
+        "id_original" : "174",
+        "value" : "M_cit_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 641.7460317460318,
+        "y" : 1970.2233250620347
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "394",
+        "id_original" : "M_akg_c",
+        "shared_name" : "M_akg_c",
+        "x" : 184.0,
+        "name" : "M_akg_c",
+        "y" : 279.0,
+        "SUID" : 394,
+        "shared_name" : "M_akg_c",
+        "id_original" : "177",
+        "value" : "M_akg_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 308.76322751322755,
+        "y" : 1017.3697270471464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "391",
+        "id_original" : "M_succoa_c",
+        "shared_name" : "M_succoa_c",
+        "x" : 826.5,
+        "name" : "M_succoa_c",
+        "y" : 121.0,
+        "SUID" : 391,
+        "shared_name" : "M_succoa_c",
+        "id_original" : "180",
+        "value" : "M_succoa_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 2000.0,
+        "y" : 1801.488833746898
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "388",
+        "id_original" : "M_oaa_c",
+        "shared_name" : "M_oaa_c",
+        "x" : 143.0,
+        "name" : "M_oaa_c",
+        "y" : 237.0,
+        "SUID" : 388,
+        "shared_name" : "M_oaa_c",
+        "id_original" : "183",
+        "value" : "M_oaa_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 200.8399470899471,
+        "y" : 1225.8064516129032
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "385",
+        "id_original" : "M_succ_c",
+        "shared_name" : "M_succ_c",
+        "x" : 120.0,
+        "name" : "M_succ_c",
+        "y" : 347.0,
+        "SUID" : 385,
+        "shared_name" : "M_succ_c",
+        "id_original" : "186",
+        "value" : "M_succ_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 140.29761904761907,
+        "y" : 679.9007444168734
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "382",
+        "id_original" : "M_fum_c",
+        "shared_name" : "M_fum_c",
+        "x" : 114.0,
+        "name" : "M_fum_c",
+        "y" : 313.0,
+        "SUID" : 382,
+        "shared_name" : "M_fum_c",
+        "id_original" : "189",
+        "value" : "M_fum_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 124.50396825396825,
+        "y" : 848.63523573201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "379",
+        "id_original" : "M_pep_c",
+        "shared_name" : "M_pep_c",
+        "x" : 241.0,
+        "name" : "M_pep_c",
+        "y" : 319.0,
+        "SUID" : 379,
+        "shared_name" : "M_pep_c",
+        "id_original" : "192",
+        "value" : "M_pep_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 458.8029100529101,
+        "y" : 818.8585607940446
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "376",
+        "id_original" : "M_mal__D_c",
+        "shared_name" : "M_mal__D_c",
+        "x" : 152.5,
+        "name" : "M_mal__D_c",
+        "y" : 209.5,
+        "SUID" : 376,
+        "shared_name" : "M_mal__D_c",
+        "id_original" : "195",
+        "value" : "M_mal__D_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 225.84656084656083,
+        "y" : 1362.2828784119108
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "id_original" : "M_icit_c",
+        "shared_name" : "M_icit_c",
+        "x" : 310.5,
+        "name" : "M_icit_c",
+        "y" : 81.0,
+        "SUID" : 363,
+        "shared_name" : "M_icit_c",
+        "id_original" : "198",
+        "value" : "M_icit_c",
+        "selected" : false,
+        "node_color" : "red"
+      },
+      "position" : {
+        "x" : 641.7460317460318,
+        "y" : 2000.0
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "451",
+        "source" : "403",
+        "target" : "400",
+        "SUID" : 451,
+        "source_original" : "152",
+        "id_original" : "201",
+        "source_original" : "M_pyr_c",
+        "selected" : false,
+        "target_original" : "M_accoa_c",
+        "target_original" : "171"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "448",
+        "source" : "400",
+        "target" : "397",
+        "SUID" : 448,
+        "source_original" : "171",
+        "id_original" : "210",
+        "source_original" : "M_accoa_c",
+        "selected" : false,
+        "target_original" : "M_cit_c",
+        "target_original" : "174"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "445",
+        "source" : "397",
+        "target" : "363",
+        "SUID" : 445,
+        "source_original" : "174",
+        "id_original" : "213",
+        "source_original" : "M_cit_c",
+        "selected" : false,
+        "target_original" : "M_icit_c",
+        "target_original" : "198"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "442",
+        "source" : "394",
+        "target" : "391",
+        "SUID" : 442,
+        "source_original" : "177",
+        "id_original" : "216",
+        "source_original" : "M_akg_c",
+        "selected" : false,
+        "target_original" : "M_succoa_c",
+        "target_original" : "180"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "439",
+        "source" : "391",
+        "target" : "385",
+        "SUID" : 439,
+        "source_original" : "180",
+        "id_original" : "219",
+        "source_original" : "M_succoa_c",
+        "selected" : false,
+        "target_original" : "M_succ_c",
+        "target_original" : "186"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "436",
+        "source" : "388",
+        "target" : "397",
+        "SUID" : 436,
+        "source_original" : "183",
+        "id_original" : "222",
+        "source_original" : "M_oaa_c",
+        "selected" : false,
+        "target_original" : "M_cit_c",
+        "target_original" : "174"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "433",
+        "source" : "385",
+        "target" : "382",
+        "SUID" : 433,
+        "source_original" : "186",
+        "id_original" : "225",
+        "source_original" : "M_succ_c",
+        "selected" : false,
+        "target_original" : "M_fum_c",
+        "target_original" : "189"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "430",
+        "source" : "382",
+        "target" : "376",
+        "SUID" : 430,
+        "source_original" : "189",
+        "id_original" : "228",
+        "source_original" : "M_fum_c",
+        "selected" : false,
+        "target_original" : "M_mal__D_c",
+        "target_original" : "195"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "427",
+        "source" : "379",
+        "target" : "403",
+        "SUID" : 427,
+        "source_original" : "192",
+        "id_original" : "231",
+        "source_original" : "M_pep_c",
+        "selected" : false,
+        "target_original" : "M_pyr_c",
+        "target_original" : "152"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "424",
+        "source" : "376",
+        "target" : "388",
+        "SUID" : 424,
+        "source_original" : "195",
+        "id_original" : "234",
+        "source_original" : "M_mal__D_c",
+        "selected" : false,
+        "target_original" : "M_oaa_c",
+        "target_original" : "183"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "406",
+        "source" : "363",
+        "target" : "394",
+        "SUID" : 406,
+        "source_original" : "198",
+        "id_original" : "237",
+        "source_original" : "M_icit_c",
+        "selected" : false,
+        "target_original" : "M_akg_c",
+        "target_original" : "177"
+      },
+      "selected" : false
+    } ]
+  }
+}
