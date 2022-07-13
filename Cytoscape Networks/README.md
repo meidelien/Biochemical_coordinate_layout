@@ -1,6 +1,6 @@
-# How to format NetworkX cytoscape_data to Cytoscape compliant JSON with fixed node locations using Notepad++'s Find & Replace tool
+# How to format NetworkX cytoscape_data to Cytoscape compliant JSON with fixed node locations using Notepad++'s Replace tool
 - The generated Cytoscape representation from NetworkX graphs is not directly compatible with Cytoscape and needs a series of modifications before it can be imported.
-- Editing of the generated Cytoscape representation (JSON) is done in Notepad++'s Find and Replace tool (CTRL + F, CMD + F) 
+- Editing of the generated Cytoscape representation (JSON) is done in Notepad++'s Replace tool (CTRL + F, CMD + F) with the settings displayed in the image below.
 <img src="Notepad_F_R.png" alt="drawing" width="500"/>
 - The steps outlined below transforms the Cytoscape representation into a format that is compatible with Cytoscape.
 - This process makes sure that the biochemical coordinate layout from the graph it represents is available.
@@ -14,40 +14,60 @@
 
 ## Step 1 - Replace single quoation marks with doubles
 
-Find what: '
-Replace with: "
+- Find what: '
+- Replace with: "
 
 ## Step 2 - Separate x & y coordinate fields
 
 - Find what:., 
 - Replace with:,\n"y":
 
+<p>&nbsp;</p>
+
 - Find what:"pos": array([
 - Replace with: "x":
+
+<p>&nbsp;</p>
 
 - Find what:.])
 - Replace with:
 
+<p>&nbsp;</p>
+
 - Find what:. ,
 - Replace with:.,
+
+<p>&nbsp;</p>
 
 - Find what:.,
 - Replace with:,
 
+<p>&nbsp;</p>
+
 - Find what:, 
 - Replace with:,\n\t"y":
+
+<p>&nbsp;</p>
 
 - Find what:_c", 
 - Replace with:_c",\n\t
 
+<p>&nbsp;</p>
+
 - Find what:_e", 
 - Replace with:e",\n\t
+
+<p>&nbsp;</p>
 
 - Find what:.,
 - Replace with:,
 
+<p>&nbsp;</p>
+
 - Find what:, 
 - Replace with:,\n\t"y":
+
+<p>&nbsp;</p>
 
 - Find what:. ,
 - Replace with:,
@@ -56,6 +76,8 @@ Replace with: "
 
 - Find what:True
 - Replace with:true
+
+<p>&nbsp;</p>
 
 - Find what:False
 - Replace with:false
