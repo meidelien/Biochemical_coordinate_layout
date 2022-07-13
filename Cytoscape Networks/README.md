@@ -1,7 +1,7 @@
 # How to format NetworkX cytoscape_data to Cytoscape compliant JSON with fixed node locations using Notepad++'s Replace tool
 - The generated Cytoscape representation from NetworkX graphs is not directly compatible with Cytoscape and needs a series of modifications before it can be imported.
 - Editing of the generated Cytoscape representation (JSON) is done in Notepad++'s Replace tool (CTRL + F, CMD + F) with the settings displayed in the image below.
-<img src="Notepad_F_R.png" alt="drawing" width="500"/>
+<center><img src="Notepad_F_R.png" alt="drawing" width="500"/></center>
 - The steps outlined below transforms the Cytoscape representation into a format that is compatible with Cytoscape.
 - This process makes sure that the biochemical coordinate layout from the graph it represents is available.
 - This is possible by separating the biochemical coordinates from the graph into two separate JSON fields:
