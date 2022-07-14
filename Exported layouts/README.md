@@ -1,6 +1,6 @@
 # How to format NetworkX graphs to Cytoscape compliant JSON with fixed node locations using Notepad++'s Replace tool
 - The generated NetworkX graphs exported to Cytoscape format using the function "networkx.cytoscape_data(G)" is not directly compatible with Cytoscape and needs a series of modifications before it can be imported and visualized in Cytoscape.
-- This process can be validated by using the "NetworkX_Core_massR_mollogR_pre-format.json" provided in this repository or by  any graph created by the "networkx.cytoscape_data(G)" function.
+- This process can be validated by using the "NetworkX_Core_massR_mollogR_pre-format.json" file provided in this repository or by  any graph created by the "networkx.cytoscape_data(G)" function.
 - Editing of the generated graphs in Cytoscape JSON is done in Notepad++'s Replace tool (CTRL + F, CMD + F) with the settings displayed in the image below.
 <center><img src="Notepad_F_R.png" alt="drawing" width="500"/></center>
 
