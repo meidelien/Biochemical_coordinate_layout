@@ -1,4 +1,4 @@
-# How to format NetworkX cytoscape_data to Cytoscape compliant JSON with fixed node locations using Notepad++'s Replace tool
+# How to format NetworkX graphs to Cytoscape compliant JSON with fixed node locations using Notepad++'s Replace tool
 - The generated Cytoscape representation from NetworkX graphs is not directly compatible with Cytoscape and needs a series of modifications before it can be imported.
 - Editing of the generated Cytoscape representation (JSON) is done in Notepad++'s Replace tool (CTRL + F, CMD + F) with the settings displayed in the image below.
 <center><img src="Notepad_F_R.png" alt="drawing" width="500"/></center>
