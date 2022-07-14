@@ -1,0 +1,187 @@
+{
+  "data": [],
+  "directed": true,
+  "multigraph": false,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "x": 70.5,
+          "y": 484,
+          "node_color": "red",
+          "id": "M_pyr_c",
+          "value": "M_pyr_c",
+          "name": "M_pyr_c"
+        }
+      },
+      {
+        "data": {
+          "x": 800,
+          "y": 264,
+          "node_color": "red",
+          "id": "M_accoa_c",
+          "value": "M_accoa_c",
+          "name": "M_accoa_c"
+        }
+      },
+      {
+        "data": {
+          "x": 310.5,
+          "y": 87,
+          "node_color": "red",
+          "id": "M_cit_c",
+          "value": "M_cit_c",
+          "name": "M_cit_c"
+        }
+      },
+      {
+        "data": {
+          "x": 184,
+          "y": 279,
+          "node_color": "red",
+          "id": "M_akg_c",
+          "value": "M_akg_c",
+          "name": "M_akg_c"
+        }
+      },
+      {
+        "data": {
+          "x": 826.5,
+          "y": 121,
+          "node_color": "red",
+          "id": "M_succoa_c",
+          "value": "M_succoa_c",
+          "name": "M_succoa_c"
+        }
+      },
+      {
+        "data": {
+          "x": 143,
+          "y": 237,
+          "node_color": "red",
+          "id": "M_oaa_c",
+          "value": "M_oaa_c",
+          "name": "M_oaa_c"
+        }
+      },
+      {
+        "data": {
+          "x": 120,
+          "y": 347,
+          "node_color": "red",
+          "id": "M_succ_c",
+          "value": "M_succ_c",
+          "name": "M_succ_c"
+        }
+      },
+      {
+        "data": {
+          "x": 114,
+          "y": 313,
+          "node_color": "red",
+          "id": "M_fum_c",
+          "value": "M_fum_c",
+          "name": "M_fum_c"
+        }
+      },
+      {
+        "data": {
+          "x": 241,
+          "y": 319,
+          "node_color": "red",
+          "id": "M_pep_c",
+          "value": "M_pep_c",
+          "name": "M_pep_c"
+        }
+      },
+      {
+        "data": {
+          "x": 152.5,
+          "y": 209.5,
+          "node_color": "red",
+          "id": "M_mal__D_c",
+          "value": "M_mal__D_c",
+          "name": "M_mal__D_c"
+        }
+      },
+      {
+        "data": {
+          "x": 310.5,
+          "y": 81,
+          "node_color": "red",
+          "id": "M_icit_c",
+          "value": "M_icit_c",
+          "name": "M_icit_c"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "source": "M_pyr_c",
+          "target": "M_accoa_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_accoa_c",
+          "target": "M_cit_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_cit_c",
+          "target": "M_icit_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_akg_c",
+          "target": "M_succoa_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_succoa_c",
+          "target": "M_succ_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_oaa_c",
+          "target": "M_cit_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_succ_c",
+          "target": "M_fum_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_fum_c",
+          "target": "M_mal__D_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_pep_c",
+          "target": "M_pyr_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_mal__D_c",
+          "target": "M_oaa_c"
+        }
+      },
+      {
+        "data": {
+          "source": "M_icit_c",
+          "target": "M_akg_c"
+        }
+      }
+    ]
+  }
+}
