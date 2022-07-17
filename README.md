@@ -15,8 +15,7 @@ Co-Supervisor: [Elisa Marquez](https://github.com/emarquezz/)
 |1|[Data collection](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Data%20collection)|
 |2|[Molecular descriptor calculation](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Molecular%20descriptor%20calculation)|
 |3|[Case study datasets](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Case%20study%20datasets)|
-|4|[Layout visualization](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Case%20study%20datasets)|
-|5|[Exported layouts](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Exported%20layouts)|
+|4|[Exported layouts](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Exported%20layouts)|
 
 
 
