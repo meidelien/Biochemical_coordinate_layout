@@ -12,7 +12,7 @@
 - Several other modifications are made to the Cytoscape representation to make it compatible with Cytoscape:
   - Single quotes are replaced with double quotes
   - boolean "False" & "True" are replaced with "false" & "true"
-  - NB: If loading the network in cytoscape without x- and y-coordinates only step 1 and 3 is required. This will result in the network will be displayed in a random arrangement.
+  - NB: If loading the network in cytoscape without x- and y-coordinates only step 1 and 3 is required. This will display the network in a random arrangement.
 
 <p>&nbsp;</p>
 
