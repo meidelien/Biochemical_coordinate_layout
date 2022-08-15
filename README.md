@@ -10,7 +10,7 @@ Department of Biotechnology and Food Science\
 Thesis supervisor: [Daniel Machado](https://github.com/cdanielmachado/)\
 Co-Supervisor: [Elisa Marquez](https://github.com/emarquezz/)
 
-|Supplementary #|Name/Description|
+|Supplementary data|Name/Description|
 |:-:|:-:|
 |1|[Data collection](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Data%20collection)|
 |2|[Molecular descriptor calculation](https://github.com/meidelien/Biochemical_coordinate_layout/tree/main/Molecular%20descriptor%20calculation)|
