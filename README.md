@@ -1,4 +1,4 @@
-# Metabolic network layouut using biochemical coordinates
+# Metabolic network layout using biochemical coordinates
 ### Visualisation of genome-scale metabolic models and metabolic pathways using molecular descriptors
 Norwegian University of Science and Technology, 
 Trondheim 2022\
