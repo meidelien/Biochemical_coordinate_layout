@@ -1,4 +1,4 @@
-# Biochemical coordinate layout
+# Metabolic network layouut using biochemical coordinates
 ### Visualisation of genome-scale metabolic models and metabolic pathways using molecular descriptors of metabolites
 
 Norwegian University of Science and Technology, 
