@@ -3,9 +3,9 @@
 Norwegian University of Science and Technology, 
 Trondheim 2022\
 Department of Biotechnology and Food Science\
-[Machado lab](https://www.ntnu.edu/ibt/research/computational-biology/#/view/about) 
-[Thesis abstract](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3027409)
-[Thesis pdf](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3027409/no.ntnu%3ainspera%3a110629533%3a44664532.pdf?sequence=1&isAllowed=y)
+[Machado lab](https://www.ntnu.edu/ibt/research/computational-biology/#/view/about)\
+[Thesis abstract](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3027409)\
+[Thesis pdf](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3027409/no.ntnu%3ainspera%3a110629533%3a44664532.pdf?sequence=1&isAllowed=y)\
 
 
 Thesis supervisor: [Daniel Machado](https://github.com/cdanielmachado/)\
