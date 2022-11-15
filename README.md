@@ -1,6 +1,6 @@
 # Metabolic network layout using biochemical coordinates
 ### Visualization of genome-scale metabolic models and metabolic pathways using molecular descriptors
-Norwegian University of Science and Technology, 
+Master's thesis, Norwegian University of Science and Technology, 
 Trondheim 2022\
 Department of Biotechnology and Food Science\
 [Machado lab](https://www.ntnu.edu/ibt/research/computational-biology/#/view/about)\
